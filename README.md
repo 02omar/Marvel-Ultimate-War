@@ -1,7 +1,7 @@
 # Marvel Ultimate War
 A 2-player board game, each player has 3 champions with distinct superpower abilities.
 
-How To Play?
+# How To Play?
 | Move  | KEY | ATTACK | KEY |
 | ------------- | ------------- | ------------- | ------------- |
 | ⬆️ | W | ⬆️ | Y | 
