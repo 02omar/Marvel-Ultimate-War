@@ -5,12 +5,12 @@ A 2-player board game, each player has 3 champions with distinct superpower abil
 A 2D 2-player battle game. Each player selects three champions to form his team, which will compete against the other player's team. The players take turns fighting the champions of the other player. The turns will continue until one player has defeated all of the other player's champions, at which point he will be declared the winner of the battle. During the battle, each player will use his champions to attack the opposing champions using either normal attacks or special attacks/abilities.
 
 # How To Play?
-| Move  | KEY | ATTACK | KEY |
-| ------------- | ------------- | ------------- | ------------- |
-| ⬆️ | W | ⬆️ | Y | 
-| ⬅️ | A | ⬅️ | G |
-| ➡️ | S | ➡️ | H |
-| ⬇️ | D | ⬇️ | J |
+| MOVE  | KEY | ATTACK | KEY | CAST ABILITY | KEY | CAST ABILITY | KEY | LEADER ABILITY | KEY | END TURN | KEY |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ⬆️ | W | ⬆️ | Y | ⬆️ | V | Single Target | K | Use Leader Ability | U | End Turn | E |
+| ⬅️ | A | ⬅️ | G | ⬅️ | N | Self Target | Z |
+| ➡️ | S | ➡️ | H | ➡️ | M | Surround | X |
+| ⬇️ | D | ⬇️ | J | ⬇️ | B | Team Target | C |
 
 # Main Menu:
 ![Scene 1](https://user-images.githubusercontent.com/67235119/174088079-61c2e121-ce83-4816-bfc5-10cb7d60b2d9.png)
